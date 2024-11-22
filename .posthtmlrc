@@ -7,12 +7,62 @@
       "root": "./src/partials",
       "locals": {
         "top": [],
-        "body": [],
+        "body": [
+          {
+            "type": "text",
+            "value": "The House Committee on Education and the Workforce published a <a href=\"https://edworkforce.house.gov/uploadedfiles/10.30.24_committee_on_education_and_the_workforce_republican_staff_report_-_antisemitism_on_college_campuses_exposed.pdf\">325-page report</a> on antisemitism on college campuses on Oct. 31, the culmination of over 11 months of scrutiny of 11 universities. The Republican-led committee used its subpoena powers over two universities—Columbia and Harvard—for the first time in its history."
+          },
+          {
+            "type": "text",
+            "value": "Over 143 pages—nearly half of the report—centers on the committee’s investigation into Columbia and Barnard, publishing information from the over 50,000 pages of confidential documents that the University submitted following the August subpoena. Columbia was the only university to be referenced in each of the report’s four key conclusions."
+          },
+          {
+            "type": "text",
+            "value": "Spectator annotated the pages of the report that include details about Columbia and Barnard. Here are Spectator’s top five takeaways:"
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "house_1_real.html"
+            }
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "house_2_real.html"
+            }
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "house_3_real.html"
+            }
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "house_4_real.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "<i>Managing Editor Esha Karam can be contacted at </i><a href=\"mailto:esha.karam@columbiaspectator.com\"><i>esha.karam@columbiaspectator.com</i></a><i>. Follow her on X </i><a href=\"http://x.com/esha_karam\"><i>@esha_karam</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Deputy Graphics Editor Ayaan Ali can be contacted at </i><a href=\"mailto:ayaan.ali@columbiaspectator.com\"><i>ayaan.ali@columbiaspectator.com</i></a><i>. Follow him on X </i><a href=\"http://x.com/__ayaanali\"><i>@__ayaanali</i></a><i>.</i>"
+          }
+        ],
+        "headline": "The House committee’s report on antisemitism, annotated",
+        "date": "November 22, 2024",
+        "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/esha-karam/\">Esha Karam</a>, <a href=\"https://www.columbiaspectator.com/contributors/ayaan-ali/\">Ayaan Ali</a>. Graphics by <a href=\"https://www.columbiaspectator.com/contributors/ayaan-ali/\">Ayaan Ali</a>",
+        "cover_asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/QFKVPU7U4BEOFE5RL6XIEKTMFE.jpg",
+        "cover_caption": "Zohar Ford / Staff Photographer",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
-        "USE_COVER_HED": false,
+        "USE_COVER_HED": true,
         "IS_EMBED": false,
-        "DOC_URL": null
+        "DOC_URL": "https://docs.google.com/document/d/1eiMSTJjQbqquATfAlP6qLIQP3ZgU5B-bp7eaNnoO_Xo/edit?usp=sharing"
       }
     }
   }
